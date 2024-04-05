@@ -10,8 +10,9 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-02 22:44 UTC\n"
-"PO-Revision-Date: 2024-03-22 13:21+0200\n"
-"Last-Translator: AncientGeneral <greatgeneral12 {AT} gmail DT com>\n"
+"PO-Revision-Date: 2024-04-05 17:45+0300\n"
+"Last-Translator: Oleksii Okhrimenko(lexa04) <e-mail: ohrimale@gmail.com "
+"discord: amakri>\n"
 "Language-Team: \n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [attack]: type=impact
 #: data/campaigns/Dead_Water/units/Soldier_King.cfg:30
@@ -1280,7 +1281,7 @@ msgstr "алебарда"
 #. [female]: gender=female
 #: data/core/units/drakes/Arbiter.cfg:174
 msgid "female^Drake Arbiter"
-msgstr "Дрейк суддя"
+msgstr "Дрейкиня суддя"
 
 #. [unit_type]: id=Armageddon Drake, race=drake, gender=male,female
 #: data/core/units/drakes/Armageddon.cfg:4
@@ -2853,7 +2854,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/elves/Archer.cfg:80
 msgid "female^Elvish Archer"
-msgstr "Ельфійська лучниця"
+msgstr "Ельфа лучниця"
 
 #. [unit_type]: id=Elvish Avenger, race=elf, gender=male,female
 #: data/core/units/elves/Avenger.cfg:4
@@ -2900,7 +2901,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/elves/Avenger.cfg:96
 msgid "female^Elvish Avenger"
-msgstr "Ельфійська месниця"
+msgstr "Ельфа месниця"
 
 #. [unit_type]: id=Elvish Captain, race=elf
 #: data/core/units/elves/Captain.cfg:4
@@ -3008,7 +3009,7 @@ msgstr "пастка"
 #. [unit_type]: id=Elvish Enchantress, race=elf, gender=female
 #: data/core/units/elves/Enchantress.cfg:4
 msgid "female^Elvish Enchantress"
-msgstr "Ельфійська чарівниця"
+msgstr "Ельфа чарівниця"
 
 #. [unit_type]: id=Elvish Enchantress, race=elf, gender=female
 #: data/core/units/elves/Enchantress.cfg:19
@@ -3289,7 +3290,7 @@ msgstr "довгий лук"
 #. [female]: gender=female
 #: data/core/units/elves/Marksman.cfg:89
 msgid "female^Elvish Marksman"
-msgstr "Ельфійська стрілець"
+msgstr "Ельфа стрілець"
 
 #. [unit_type]: id=Elvish Marshal, race=elf
 #: data/core/units/elves/Marshal.cfg:4
@@ -3424,7 +3425,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/elves/Ranger.cfg:95
 msgid "female^Elvish Ranger"
-msgstr "Ельфійська ліснича"
+msgstr "Ельфа ліснича"
 
 #. [unit_type]: id=Elvish Rider, race=elf
 #: data/core/units/elves/Rider.cfg:4
@@ -3528,7 +3529,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Shaman, race=elf, gender=female
 #: data/core/units/elves/Shaman.cfg:4
 msgid "female^Elvish Shaman"
-msgstr "Ельфійська шаманка"
+msgstr "Ельфа шаманка"
 
 #. [unit_type]: id=Elvish Shaman, race=elf, gender=female
 #: data/core/units/elves/Shaman.cfg:19
@@ -3585,7 +3586,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/elves/Sharpshooter.cfg:81
 msgid "female^Elvish Sharpshooter"
-msgstr "Ельфійська снайпер"
+msgstr "Ельфа снайпер"
 
 #. [unit_type]: id=Elvish Shyde, race=elf, gender=female
 #: data/core/units/elves/Shyde.cfg:22
@@ -3608,7 +3609,7 @@ msgstr "дотик феї"
 #. [unit_type]: id=Elvish Sorceress, race=elf, gender=female
 #: data/core/units/elves/Sorceress.cfg:4
 msgid "female^Elvish Sorceress"
-msgstr "Ельфійська чаклунка"
+msgstr "Ельфа чаклунка"
 
 #. [unit_type]: id=Elvish Sorceress, race=elf, gender=female
 #: data/core/units/elves/Sorceress.cfg:19
