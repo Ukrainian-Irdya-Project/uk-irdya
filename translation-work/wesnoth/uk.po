@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: 1.11\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-02 16:44-0600\n"
-"PO-Revision-Date: 2024-04-04 16:34+0300\n"
+"PO-Revision-Date: 2024-04-10 14:37+0300\n"
 "Last-Translator: Oleksii Okhrimenko(lexa04) <e-mail: ohrimale@gmail.com "
 "discord: amakri>\n"
 "Language-Team: \n"
@@ -3301,7 +3301,7 @@ msgstr ""
 "Аг,Агх,Бог Ах,Борб,Браг Гох,Брок,Дак,Дрог,Фрок,Га,Гах,Гарк,Гнарф,Грар,Грокк,"
 "Грумф,Гулк,Хак,Хаск,Хот,Хуг Бах,Ху Ках,Как,Крак,Круг,Куб,Кух,Лок,Лук,Нак,Нук "
 "Кар,Паг,Рек,Рок,Рук,Сарк,Шак,Шуф,Стух,Тарг,Тог,Труф,Тур,Тог,Торг,Трок,Тух,"
-"Тук Рух,Угг,Йух,Ург,Ургх,Урк,Вак,Зог,Зууг"
+"Тук Рух,Угг,Юх,Ург,Ургх,Урк,Вак,Зог,Зууг"
 
 #. Generator for troll names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 #: data/core/macros/names.cfg:252
