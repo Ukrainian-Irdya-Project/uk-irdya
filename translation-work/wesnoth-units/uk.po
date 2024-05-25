@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-02 22:44 UTC\n"
-"PO-Revision-Date: 2024-04-25 14:06+0300\n"
+"PO-Revision-Date: 2024-05-25 17:47+0300\n"
 "Last-Translator: Oleksii Okhrimenko(lexa04) <e-mail: ohrimale@gmail.com "
 "discord: amakri>\n"
 "Language-Team: \n"
@@ -936,19 +936,6 @@ msgstr "громова палиця"
 
 #. [unit_type]: id=Dwarvish Masked Thunderguard, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:18
-#, fuzzy
-#| msgid ""
-#| "The Dwarven Thunderguards are famed for their curious weaponry, these "
-#| "strange staves of wood and iron that make a thunderous noise in their "
-#| "anger. The machinations behind this weaponry are a mystery, a secret "
-#| "taken to the grave by the dwarves of Knalga who wield them, and are "
-#| "assumed to have even forged them. The most that is known are reports of "
-#| "dwarves pouring a strange black dust into the mouth of their weapons, "
-#| "which some say is a food to fuel the beast imprisoned within.\n"
-#| "\n"
-#| "Though a single shot from these ‘thundersticks’ can take several minutes "
-#| "to prepare, the results are seen by the Dwarves as being well worth the "
-#| "wait."
 msgid ""
 "The Dwarven Thunderguards are famed for their curious weaponry, these "
 "strange staves of wood and iron that make a thunderous noise in their anger. "
@@ -963,13 +950,13 @@ msgid ""
 msgstr ""
 "Гноми громові вартові знамениті своєю загадковою зброєю, дивними палицями із "
 "заліза і дерева, що видають в бою громоподібний звук. Механізм дії цієї "
-"зброї покритий таємницею: гноми Кналга, які ними користувались (і, як "
-"вважається, самі їх і майстрували) забрали цей секрет з собою в могилу. "
+"зброї покритий таємницею: гноми Кналга, які ними користуються (і, як "
+"вважається, власноруч створили) забирають цей секрет з собою в могилу. "
 "Відомо лише, що гноми сиплють дивний чорний пил в отвір своєї зброї. "
 "Говорять, що це корм для звіра, заточеного всередині.\n"
 "\n"
 "Хоча підготовка одного пострілу з цих ‘громових палиць’ займає декілька "
-"хвилин, на думку гномів результат того вартий."
+"хвилин, на думку гномів, результат того вартий."
 
 #. [unit_type]: id=Dwarvish Masked Ulfserker, race=dwarf
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
@@ -1077,17 +1064,17 @@ msgstr "бола"
 #. [effect]: type=blade
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:156
 msgid "taunting strike"
-msgstr ""
+msgstr "глузуючий удар"
 
 #. [advancement]: id=run_by_taunt
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:183
 msgid "Run By (Taunting strike)"
-msgstr ""
+msgstr "Пробігти повз (Глузуючий удар)"
 
 #. [advancement]: id=strength_training
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:201
 msgid "Strength Training"
-msgstr ""
+msgstr "Силове тренування"
 
 #. [advancement]: id=bowmanship_training
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:213
@@ -1097,7 +1084,7 @@ msgstr "Стрілецьке тренування"
 #. [advancement]: id=strong_shots
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:230
 msgid "Strong Shots"
-msgstr ""
+msgstr "Сильні вистріли"
 
 #. [advancement]: id=Bowman
 #. [unit_type]: id=Bowman, race=human, gender=male
@@ -1258,6 +1245,8 @@ msgid ""
 "Compared to other drakes, Drake Arbiters have a higher resistance to "
 "‘pierce’ attacks."
 msgstr ""
+"У порівнянні з іншими дрейками, судді мають підвищений опір до 'колючих' "
+"атак."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -1276,7 +1265,7 @@ msgstr "Дрейкиня суддя"
 #. [unit_type]: id=Armageddon Drake, race=drake, gender=male,female
 #: data/core/units/drakes/Armageddon.cfg:4
 msgid "Armageddon Drake"
-msgstr "Великий дрейк"
+msgstr "Дрейк Армагедону"
 
 #. [unit_type]: id=Armageddon Drake, race=drake, gender=male,female
 #: data/core/units/drakes/Armageddon.cfg:20
@@ -1315,7 +1304,7 @@ msgstr "вогняний подих"
 #. [female]: gender=female
 #: data/core/units/drakes/Armageddon.cfg:65
 msgid "female^Armageddon Drake"
-msgstr "Велика дрейкиня"
+msgstr "Дрейкиня Армагедону"
 
 #. [unit_type]: id=Drake Blademaster, race=drake, gender=male,female
 #: data/core/units/drakes/Blademaster.cfg:4
@@ -1703,7 +1692,7 @@ msgstr "Дрейкиня молотар"
 #. [unit_type]: id=Drake Warden, race=drake, gender=male,female
 #: data/core/units/drakes/Warden.cfg:4
 msgid "Drake Warden"
-msgstr "Вартовий дрейк"
+msgstr "Дрейк наглядач"
 
 #. [unit_type]: id=Drake Warden, race=drake, gender=male,female
 #: data/core/units/drakes/Warden.cfg:19
@@ -1729,11 +1718,13 @@ msgid ""
 "Compared to other drakes, Drake Wardens have a higher resistance to ‘pierce’ "
 "attacks."
 msgstr ""
+"У порівнянні з іншими дрейками, наглядачі мають підвищений опір до 'колючих' "
+"атак."
 
 #. [female]: gender=female
 #: data/core/units/drakes/Warden.cfg:175
 msgid "female^Drake Warden"
-msgstr "Вартова дрейкиня"
+msgstr "Дрейкиня наглядач"
 
 #. [unit_type]: id=Drake Warrior, race=drake, gender=male,female
 #: data/core/units/drakes/Warrior.cfg:4
@@ -1784,12 +1775,12 @@ msgstr ""
 #. [attack]: type=pierce
 #: data/core/units/dunefolk/Alchemist.cfg:44
 msgid "blowgun"
-msgstr ""
+msgstr "пневмостріл"
 
 #. [unit_type]: id=Dune Apothecary, race=dunefolk
 #: data/core/units/dunefolk/Apothecary.cfg:8
 msgid "Dune Apothecary"
-msgstr ""
+msgstr "Аптекар дюн"
 
 #. [unit_type]: id=Dune Apothecary, race=dunefolk
 #: data/core/units/dunefolk/Apothecary.cfg:25
@@ -1865,7 +1856,7 @@ msgstr ""
 #. [attack]: type=fire
 #: data/core/units/dunefolk/Burner.cfg:41
 msgid "tar bomb"
-msgstr ""
+msgstr "бомба з дьогтю"
 
 #. [female]: gender=female
 #: data/core/units/dunefolk/Burner.cfg:98
@@ -1920,7 +1911,7 @@ msgstr ""
 #: data/core/units/dunefolk/Wayfarer.cfg:52
 #: data/core/units/dunefolk/Windbolt.cfg:41
 msgid "composite bow"
-msgstr ""
+msgstr "композитний лук"
 
 #. [unit_type]: id=Dune Explorer, race=dunefolk
 #: data/core/units/dunefolk/Explorer.cfg:8
@@ -1989,7 +1980,7 @@ msgstr ""
 #: data/core/units/dunefolk/Firetrooper.cfg:95
 #: data/core/units/dunefolk/Scorcher.cfg:42
 msgid "flamethrower"
-msgstr ""
+msgstr "вогнемет"
 
 #. [female]: gender=female
 #: data/core/units/dunefolk/Firetrooper.cfg:149
@@ -1998,10 +1989,8 @@ msgstr "Вогнеметчиця дюн"
 
 #. [unit_type]: id=Dune Harrier, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Harrier.cfg:8
-#, fuzzy
-#| msgid "female^Red Mage"
 msgid "female^Dune Harrier"
-msgstr "Червона мага"
+msgstr "Нишпорка дюн"
 
 #. [unit_type]: id=Dune Harrier, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Harrier.cfg:25
@@ -2060,7 +2049,7 @@ msgstr ""
 #. [unit_type]: id=Dune Luminary, race=dunefolk
 #: data/core/units/dunefolk/Luminary.cfg:8
 msgid "Dune Luminary"
-msgstr ""
+msgstr "Світило дюн"
 
 #. [unit_type]: id=Dune Luminary, race=dunefolk
 #: data/core/units/dunefolk/Luminary.cfg:25
@@ -2142,7 +2131,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/dunefolk/Paragon.cfg:42
 msgid "pommel strike"
-msgstr ""
+msgstr "удар держаком"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:11
@@ -2202,7 +2191,7 @@ msgstr ""
 #. [unit_type]: id=Dune Scorcher, race=dunefolk, gender=male,female
 #: data/core/units/dunefolk/Scorcher.cfg:9
 msgid "Dune Scorcher"
-msgstr ""
+msgstr "Палій дюн"
 
 #. [unit_type]: id=Dune Scorcher, race=dunefolk, gender=male,female
 #: data/core/units/dunefolk/Scorcher.cfg:22
@@ -2218,10 +2207,8 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/core/units/dunefolk/Scorcher.cfg:95
-#, fuzzy
-#| msgid "female^Necromancer"
 msgid "female^Dune Scorcher"
-msgstr "Некромантка"
+msgstr "Палійка дюн"
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Skirmisher.cfg:8
@@ -2244,10 +2231,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Sky_Hunter.cfg:14
-#, fuzzy
-#| msgid "female^Necromancer"
 msgid "female^Dune Sky Hunter"
-msgstr "Некромантка"
+msgstr "Небесна мисливиця дюн"
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Sky_Hunter.cfg:39
@@ -2267,7 +2252,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/dunefolk/Sky_Hunter.cfg:151
 msgid "eagle"
-msgstr ""
+msgstr "сокіл"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 #: data/core/units/dunefolk/Soldier.cfg:8
@@ -2337,10 +2322,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Strider, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Strider.cfg:8
-#, fuzzy
-#| msgid "female^Fugitive"
 msgid "female^Dune Strider"
-msgstr "Втікачка"
+msgstr "Блукачка дюн"
 
 #. [unit_type]: id=Dune Strider, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Strider.cfg:21
@@ -2361,7 +2344,7 @@ msgstr ""
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:8
 msgid "Dune Sunderer"
-msgstr ""
+msgstr "Трощитель дюн"
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:21
@@ -2401,17 +2384,17 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/dunefolk/Swordsman.cfg:26
 msgid "forceful scimitar strike"
-msgstr ""
+msgstr "сильний удар скімітаром"
 
 #. [attack]: type=blade
 #: data/core/units/dunefolk/Swordsman.cfg:35
 msgid "balanced scimitar slash"
-msgstr ""
+msgstr "збалансований розріз скімітаром"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:8
 msgid "Dune Warmaster"
-msgstr ""
+msgstr "Майстер битви дюн"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:24
@@ -2430,7 +2413,7 @@ msgstr ""
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
 #: data/core/units/dunefolk/Wayfarer.cfg:8
 msgid "Dune Wayfarer"
-msgstr ""
+msgstr "Дальньохід дюн"
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
 #: data/core/units/dunefolk/Wayfarer.cfg:21
@@ -2469,7 +2452,7 @@ msgstr ""
 #. [unit_type]: id=Dune Windbolt, race=dunefolk
 #: data/core/units/dunefolk/Windbolt.cfg:8
 msgid "Dune Windbolt"
-msgstr ""
+msgstr "Вітростріл дюн"
 
 #. [unit_type]: id=Dune Windbolt, race=dunefolk
 #: data/core/units/dunefolk/Windbolt.cfg:22
@@ -3515,7 +3498,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Sylph, race=elf, gender=female
 #: data/core/units/elves/Sylph.cfg:4
 msgid "female^Elvish Sylph"
-msgstr "Сильфа"
+msgstr "Ельфа сильфа"
 
 #. [unit_type]: id=Elvish Sylph, race=elf, gender=female
 #: data/core/units/elves/Sylph.cfg:21
@@ -4524,7 +4507,7 @@ msgid ""
 "Compared to other mages, Arch Mages have a higher resistance to ‘fire’ "
 "attacks."
 msgstr ""
-"Порівняно з іншими магами, Архимаги мають більший опір до 'вогняних' атак."
+"Порівняно з іншими магами, архимаги мають підвищений опір до 'вогняних' атак."
 
 #. [attack]: type=fire
 #: data/core/units/humans/Mage_Arch.cfg:47
@@ -4597,7 +4580,8 @@ msgid ""
 "Compared to other mages, Great Mages have a higher resistance to ‘fire’ "
 "attacks."
 msgstr ""
-"Порівняно з іншими магами, Великі маги мають більший опір до 'вогняних' атак."
+"Порівняно з іншими магами, великі маги мають підвищений опір до 'вогняних' "
+"атак."
 
 #. [female]: gender=female
 #: data/core/units/humans/Mage_Great.cfg:90
@@ -4643,7 +4627,7 @@ msgid ""
 "Compared to other mages, Red Mages have a higher resistance to ‘fire’ "
 "attacks."
 msgstr ""
-"Порівняно з іншими магами, Червоні маги мають більший опір до 'вогняних' "
+"Порівняно з іншими магами, червоні маги мають підвищений опір до 'вогняних' "
 "атак."
 
 #. [female]: gender=female
@@ -4742,7 +4726,8 @@ msgid ""
 "Compared to other mages, White Mages have a higher resistance to ‘arcane’ "
 "attacks."
 msgstr ""
-"Порівняно з іншими магами, Білі маги мають більший опір до 'містичних' атак."
+"Порівняно з іншими магами, білі маги мають підвищений опір до 'містичних' "
+"атак."
 
 #. [female]: gender=female
 #: data/core/units/humans/Mage_White.cfg:105
@@ -4777,7 +4762,7 @@ msgid ""
 "Compared to other mages, Mages of Light have a higher resistance to ‘arcane’ "
 "attacks."
 msgstr ""
-"Порівняно з іншими магами, Світлі маги мають більший опір до 'містичних' "
+"Порівняно з іншими магами, світлі маги мають підвищений опір до 'містичних' "
 "атак."
 
 #. [female]: gender=female
@@ -5704,17 +5689,13 @@ msgstr ""
 
 #. [unit_type]: id=Firebane Ant, race=monster
 #: data/core/units/monsters/Ant_Firebane.cfg:11
-#, fuzzy
-#| msgid "Fire Dragon"
 msgid "Firebane Ant"
-msgstr "Вогняний дракон"
+msgstr "Вогненопроклята мураха"
 
 #. [unit_type]: id=Firebomb Ant, race=monster
 #: data/core/units/monsters/Ant_Firebomb.cfg:11
-#, fuzzy
-#| msgid "Fire Dragon"
 msgid "Firebomb Ant"
-msgstr "Вогняний дракон"
+msgstr "Вогневибухова мураха"
 
 #. [unit_type]: id=Firebomb Ant, race=monster
 #: data/core/units/monsters/Ant_Firebomb.cfg:53
@@ -5791,13 +5772,13 @@ msgstr ""
 #: data/core/units/undead/Corpse_Soulless.cfg:436
 #: data/core/units/undead/Corpse_Walking.cfg:437
 msgid "tusk"
-msgstr ""
+msgstr "бивень"
 
 #. [unit_type]: id=Piglet, race=monster
 #. the child of a wild boar, rather than the child of a domesticated pig
 #: data/core/units/monsters/Boar_Piglet.cfg:5
 msgid "Piglet"
-msgstr ""
+msgstr "Поросятко"
 
 #. [unit_type]: id=Piglet, race=monster
 #: data/core/units/monsters/Boar_Piglet.cfg:35
@@ -5810,7 +5791,7 @@ msgstr ""
 #. [unit_type]: id=Caribe, race=monster
 #: data/core/units/monsters/Caribe.cfg:8
 msgid "Caribe"
-msgstr ""
+msgstr "Піранья"
 
 #. [unit_type]: id=Caribe, race=monster
 #: data/core/units/monsters/Caribe.cfg:28
@@ -5826,7 +5807,7 @@ msgstr ""
 #. [unit_type]: id=Hunter Caribe, race=monster
 #: data/core/units/monsters/Caribe_Hunter.cfg:8
 msgid "Hunter Caribe"
-msgstr ""
+msgstr "Піранья мисливець"
 
 #. [unit_type]: id=Hunter Caribe, race=monster
 #: data/core/units/monsters/Caribe_Hunter.cfg:29
@@ -5838,7 +5819,7 @@ msgstr ""
 #. [unit_type]: id=Nibbler, race=monster
 #: data/core/units/monsters/Caribe_Nibbler.cfg:8
 msgid "Nibbler"
-msgstr ""
+msgstr "Риба ножиці"
 
 #. [unit_type]: id=Nibbler, race=monster
 #: data/core/units/monsters/Caribe_Nibbler.cfg:43
@@ -5873,12 +5854,12 @@ msgstr ""
 #. [hides]: id=swamp_lurk
 #: data/core/units/monsters/Crocodile.cfg:144
 msgid "swamp lurk"
-msgstr ""
+msgstr "болотяне скрадання"
 
 #. [hides]: id=swamp_lurk
 #: data/core/units/monsters/Crocodile.cfg:145
 msgid "female^swamp lurk"
-msgstr ""
+msgstr "болотяне скрадання"
 
 #. [hides]: id=swamp_lurk
 #: data/core/units/monsters/Crocodile.cfg:146
@@ -5954,7 +5935,7 @@ msgstr "жало"
 #. [unit_type]: id=Dragonfly Naiad, race=monster
 #: data/core/units/monsters/Dragonfly_Naiad.cfg:5
 msgid "Dragonfly Naiad"
-msgstr ""
+msgstr "Личинка бабки"
 
 #. [unit_type]: id=Dragonfly Naiad, race=monster
 #: data/core/units/monsters/Dragonfly_Naiad.cfg:58
@@ -5968,7 +5949,7 @@ msgstr ""
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/monsters/Elder_Falcon.cfg:4
 msgid "Elder Falcon"
-msgstr "Сокіл старійшина"
+msgstr "Старий сокіл"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/monsters/Elder_Falcon.cfg:19
@@ -6249,7 +6230,7 @@ msgstr "павутина"
 #. [unit_type]: id=Bay Horse, race=horse
 #: data/core/units/monsters/Horse.cfg:5
 msgid "Bay Horse"
-msgstr ""
+msgstr "Гнідий кінь"
 
 #. [unit_type]: id=Bay Horse, race=horse
 #: data/core/units/monsters/Horse.cfg:19
@@ -6267,7 +6248,7 @@ msgstr ""
 #: data/core/units/monsters/Horse_Great.cfg:34
 #: data/core/units/monsters/Horse_White.cfg:38
 msgid "hooves"
-msgstr ""
+msgstr "копита"
 
 #. [unit_type]: id=Black Horse, race=horse, gender=male,female
 #: data/core/units/monsters/Horse_Black.cfg:14
@@ -6286,12 +6267,12 @@ msgstr ""
 #: data/core/units/monsters/Horse_Black.cfg:59
 #: data/core/units/monsters/Horse_Dark.cfg:53
 msgid "whinny"
-msgstr ""
+msgstr "скигління"
 
 #. [male]
 #: data/core/units/monsters/Horse_Black.cfg:94
 msgid "Black Stallion"
-msgstr ""
+msgstr "Чорний жеребець"
 
 #. [female]
 #. Female variant of the Black Horse or Black Stallion; in English this is a pun on the word "Mare"
@@ -6353,7 +6334,7 @@ msgstr ""
 #. [unit_type]: id=Icemonax, race=monster
 #: data/core/units/monsters/Icemonax.cfg:4
 msgid "Icemonax"
-msgstr ""
+msgstr "Гліптодон"
 
 #. [unit_type]: id=Icemonax, race=monster
 #: data/core/units/monsters/Icemonax.cfg:34
@@ -6368,7 +6349,7 @@ msgstr ""
 #. [unit_type]: id=Great Icemonax, race=monster
 #: data/core/units/monsters/Icemonax_Greater.cfg:4
 msgid "Great Icemonax"
-msgstr ""
+msgstr "Великий гліптодон "
 
 #. [unit_type]: id=Great Icemonax, race=monster
 #: data/core/units/monsters/Icemonax_Greater.cfg:35
@@ -6444,7 +6425,7 @@ msgstr ""
 #. [unit_type]: id=Raven, race=raven
 #: data/core/units/monsters/Raven.cfg:4
 msgid "Raven"
-msgstr ""
+msgstr "Ворон"
 
 #. [unit_type]: id=Raven, race=raven
 #: data/core/units/monsters/Raven.cfg:18
@@ -6459,7 +6440,7 @@ msgstr ""
 #. [unit_type]: id=War Harbinger, race=raven
 #: data/core/units/monsters/Raven_Harbinger.cfg:4
 msgid "War Harbinger"
-msgstr ""
+msgstr "Провісник війни"
 
 #. [unit_type]: id=War Harbinger, race=raven
 #: data/core/units/monsters/Raven_Harbinger.cfg:19
@@ -6473,10 +6454,8 @@ msgstr ""
 
 #. [unit_type]: id=Dark Omen, race=raven
 #: data/core/units/monsters/Raven_Omen.cfg:4
-#, fuzzy
-#| msgid "Dark Sorcerer"
 msgid "Dark Omen"
-msgstr "Чорнокнижник"
+msgstr "Темне знамення"
 
 #. [unit_type]: id=Dark Omen, race=raven
 #: data/core/units/monsters/Raven_Omen.cfg:18
@@ -6490,7 +6469,7 @@ msgstr ""
 #. [unit_type]: id=Roc, race=monster
 #: data/core/units/monsters/Roc.cfg:4
 msgid "Roc"
-msgstr ""
+msgstr "Рух"
 
 #. [unit_type]: id=Roc, race=monster
 #: data/core/units/monsters/Roc.cfg:20
@@ -6513,7 +6492,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/monsters/Roc.cfg:75
 msgid "rock"
-msgstr ""
+msgstr "каміння"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
 #: data/core/units/monsters/Rock_Scorpion.cfg:4
@@ -6533,7 +6512,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/monsters/Rock_Scorpion.cfg:61
 msgid "spray"
-msgstr "потік"
+msgstr "спрей"
 
 #. [unit_type]: id=Sand Scamperer
 #: data/core/units/monsters/Sand_Scamperer.cfg:11
@@ -6553,7 +6532,7 @@ msgstr ""
 #. [unit_type]: id=Horned Scarab, race=monster
 #: data/core/units/monsters/Scarab.cfg:4
 msgid "Horned Scarab"
-msgstr ""
+msgstr "Рогатий скарабей"
 
 #. [special_note]
 #: data/core/units/monsters/Scarab.cfg:21
@@ -6704,7 +6683,7 @@ msgstr ""
 #. [unit_type]: id=Wild Wyvern, race=monster
 #: data/core/units/monsters/Wild_Wyvern.cfg:8
 msgid "Wild Wyvern"
-msgstr ""
+msgstr "Дика виверна"
 
 #. [unit_type]: id=Wild Wyvern, race=monster
 #: data/core/units/monsters/Wild_Wyvern.cfg:45
@@ -6789,7 +6768,7 @@ msgstr ""
 #. [unit_type]: id=Naga Dirkfang, race=naga, gender=male,female
 #: data/core/units/nagas/Dirkfang.cfg:4
 msgid "Naga Dirkfang"
-msgstr ""
+msgstr "Нага заколювач"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga, gender=male,female
 #: data/core/units/nagas/Dirkfang.cfg:18
@@ -6811,15 +6790,13 @@ msgstr "чакрі"
 
 #. [female]: gender=female
 #: data/core/units/nagas/Dirkfang.cfg:93
-#, fuzzy
-#| msgid "Nagini Fighter"
 msgid "Nagini Dirkfang"
-msgstr "Бойова нага"
+msgstr "Нагиня заколювачка"
 
 #. [unit_type]: id=Naga Fighter, race=naga, gender=male,female
 #: data/core/units/nagas/Fighter.cfg:4
 msgid "Naga Fighter"
-msgstr "Бойовий наг"
+msgstr "Бойова нага"
 
 #. [unit_type]: id=Naga Fighter, race=naga, gender=male,female
 #: data/core/units/nagas/Fighter.cfg:18
@@ -6840,7 +6817,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/nagas/Fighter.cfg:49
 msgid "Nagini Fighter"
-msgstr "Бойова нага"
+msgstr "Бойова нагиня"
 
 #. [unit_type]: id=Naga Guard, race=naga
 #: data/core/units/nagas/Guard.cfg:4
@@ -6935,10 +6912,8 @@ msgstr ""
 
 #. [unit_type]: id=Naga Ophidian, race=naga, gender=male,female
 #: data/core/units/nagas/Ophidian.cfg:4
-#, fuzzy
-#| msgid "Naga Myrmidon"
 msgid "Naga Ophidian"
-msgstr "Прислужник"
+msgstr "Змієподібна нага"
 
 #. [unit_type]: id=Naga Ophidian, race=naga, gender=male,female
 #: data/core/units/nagas/Ophidian.cfg:18
@@ -6969,17 +6944,13 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/core/units/nagas/Ophidian.cfg:91
-#, fuzzy
-#| msgid "Naga Myrmidon"
 msgid "Nagini Ophidian"
-msgstr "Прислужник"
+msgstr "Змієподібна нагиня"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga, gender=male,female
 #: data/core/units/nagas/Ringcaster.cfg:4
-#, fuzzy
-#| msgid "Naga Fighter"
 msgid "Naga Ringcaster"
-msgstr "Бойовий наг"
+msgstr "Нага кільцезаклинач"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga, gender=male,female
 #: data/core/units/nagas/Ringcaster.cfg:18
@@ -6999,17 +6970,13 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/core/units/nagas/Ringcaster.cfg:104
-#, fuzzy
-#| msgid "Naga Fighter"
 msgid "Nagini Ringcaster"
-msgstr "Бойовий наг"
+msgstr "Нагиня кільцезаклиначка"
 
 #. [unit_type]: id=Naga Sicarius, race=naga, gender=male,female
 #: data/core/units/nagas/Sicarius.cfg:4
-#, fuzzy
-#| msgid "Naga Fighter"
 msgid "Naga Sicarius"
-msgstr "Бойовий наг"
+msgstr "Нага сікаріус"
 
 #. [unit_type]: id=Naga Sicarius, race=naga, gender=male,female
 #: data/core/units/nagas/Sicarius.cfg:19
@@ -7031,15 +6998,13 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/core/units/nagas/Sicarius.cfg:95
-#, fuzzy
-#| msgid "Nagini Warrior"
 msgid "Nagini Sicarius"
-msgstr "Нага воячка"
+msgstr "Нагиня сікаріус"
 
 #. [unit_type]: id=Naga Warrior, race=naga, gender=male,female
 #: data/core/units/nagas/Warrior.cfg:4
 msgid "Naga Warrior"
-msgstr "Наг воїн"
+msgstr "Нага воїн"
 
 #. [unit_type]: id=Naga Warrior, race=naga, gender=male,female
 #: data/core/units/nagas/Warrior.cfg:18
@@ -7080,10 +7045,8 @@ msgstr ""
 
 #. [unit_type]: id=Naga Zephyr, race=naga, gender=male,female
 #: data/core/units/nagas/Zephyr.cfg:4
-#, fuzzy
-#| msgid "Naga Fighter"
 msgid "Naga Zephyr"
-msgstr "Бойовий наг"
+msgstr "Нага буревій"
 
 #. [unit_type]: id=Naga Zephyr, race=naga, gender=male,female
 #: data/core/units/nagas/Zephyr.cfg:19
@@ -7129,10 +7092,8 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/core/units/nagas/Zephyr.cfg:111
-#, fuzzy
-#| msgid "Naga Fighter"
 msgid "Nagini Zephyr"
-msgstr "Бойовий наг"
+msgstr "Нагиня буревій"
 
 #. [unit_type]: id=Ogre, race=ogre
 #: data/core/units/ogres/Ogre.cfg:4
@@ -7569,10 +7530,8 @@ msgstr ""
 
 #. [unit_type]: id=Saurian Seer, race=lizard
 #: data/core/units/saurians/Seer.cfg:4
-#, fuzzy
-#| msgid "Saurian Soothsayer"
 msgid "Saurian Seer"
-msgstr "Ворожбит"
+msgstr "Провидець"
 
 #. [unit_type]: id=Saurian Seer, race=lizard
 #. [unit_type]: id=Saurian Soothsayer, race=lizard
@@ -7941,10 +7900,8 @@ msgstr "Скорпіон"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:364
 #: data/core/units/undead/Corpse_Walking.cfg:365
-#, fuzzy
-#| msgid "wc_variation^Swimmer"
 msgid "wc_variation^Scuttler"
-msgstr "Плавець"
+msgstr ""
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:373
@@ -8212,7 +8169,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/undead/Skele_Bone_Knight.cfg:77
 msgid "trample"
-msgstr ""
+msgstr "топтання"
 
 #. [unit_type]: id=Bone Shooter, race=undead
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:4
@@ -8280,7 +8237,7 @@ msgstr ""
 #. [unit_type]: id=Death Squire, race=undead
 #: data/core/units/undead/Skele_Death_Squire.cfg:5
 msgid "Death Squire"
-msgstr ""
+msgstr "Кавалер смерті"
 
 #. [unit_type]: id=Death Squire, race=undead
 #: data/core/units/undead/Skele_Death_Squire.cfg:27
@@ -8392,10 +8349,8 @@ msgstr ""
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/core/units/undead/Skeleton_Rider.cfg:5
-#, fuzzy
-#| msgid "Skeleton Archer"
 msgid "Skeleton Rider"
-msgstr "Скелет лучник"
+msgstr "Скелет вершник"
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/core/units/undead/Skeleton_Rider.cfg:79
