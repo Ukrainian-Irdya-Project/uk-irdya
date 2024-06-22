@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-02 22:44 UTC\n"
-"PO-Revision-Date: 2024-06-19 22:45+0300\n"
+"PO-Revision-Date: 2024-06-22 16:09+0300\n"
 "Last-Translator: Oleksii Okhrimenko(lexa04) <e-mail: ohrimale@gmail.com "
 "discord: amakri>\n"
 "Language-Team: \n"
@@ -4002,7 +4002,7 @@ msgstr ""
 "винятковий бойовий досвід, генерал може розбити ворожі сили, навіть "
 "командуючи зеленими новобранцями. Генералів поважають і знать, і звичайні "
 "громадяни, і в знак своїх великих заслуг вони екіпіровані у пишно прикрашені "
-"обладунки та найкращою зброєю, що виходила з людський майстерень"
+"обладунки та найкращою зброєю, що виходила з людський майстерень."
 
 #. [unit_type]: id=Grand Marshal, race=human
 #: data/core/units/humans/Loyalist_Grand_Marshal.cfg:4
@@ -5831,7 +5831,7 @@ msgstr ""
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:13
 msgid "Swamp Lizard"
-msgstr "болотяна ящірка"
+msgstr "Болотяна ящірка"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:122
@@ -6517,7 +6517,7 @@ msgstr "спрей"
 #. [unit_type]: id=Sand Scamperer
 #: data/core/units/monsters/Sand_Scamperer.cfg:11
 msgid "Sand Scamperer"
-msgstr ""
+msgstr "Піщаний утікач"
 
 #. [unit_type]: id=Sand Scamperer
 #: data/core/units/monsters/Sand_Scamperer.cfg:16
